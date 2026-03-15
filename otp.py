@@ -42,7 +42,6 @@ def parse_timestamp(ts_str):
 
 # Country map (بہت سارے ممالک شامل)
 country_map = {
-{
     "1": ("United States", "🇺🇸"),
     "7": ("Russia", "🇷🇺"),
     "20": ("Egypt", "🇪🇬"),
